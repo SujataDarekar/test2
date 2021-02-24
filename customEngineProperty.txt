@@ -1,0 +1,2 @@
+-Dosgi.noShutdown=false
+-Dosgi.noShutdown=false
